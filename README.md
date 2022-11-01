@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto and machine learning
 - 🌱 I’m currently learning what inspires me
 
-- 📫 How to reach me: dunno email me or smth
+- 📫 How to reach me: mp20022013@gmail.com
 
 <!---
 CryptoMich02/CryptoMich02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
