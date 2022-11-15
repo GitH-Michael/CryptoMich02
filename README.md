@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CryptoMich02
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in Crypto and machine learning
 - 🌱 I’m currently learning what inspires me
 
 - 📫 How to reach me: mp20022013@gmail.com
-
-<!---
-CryptoMich02/CryptoMich02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
